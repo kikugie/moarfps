@@ -3,6 +3,8 @@
 A simple mod for more fps.  
 In fact, as many fps as you want. 
 
+## This does not change actual FPS, only showing fake number as a joke.  
+
 ## Config
 Install [Cloth Config](https://modrinth.com/mod/cloth-config) and [Mod Menu](https://modrinth.com/mod/modmenu) to access mod config, or edit `config/moarfps.json5` file.  
 
