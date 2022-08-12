@@ -1,6 +1,6 @@
 # Moar FPS
 
-A simple optimisation mod for more fps.  
+A simple mod for more fps.  
 In fact, as many fps as you want. 
 
 ## Config
