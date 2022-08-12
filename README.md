@@ -1,9 +1,18 @@
-# Fabric Example Mod
+# Moar FPS
 
-## Setup
+A simple optimisation mod for more fps.  
+In fact, as many fps as you want. 
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Config
+Install [Cloth Config](https://modrinth.com/mod/cloth-config) and [Mod Menu](https://modrinth.com/mod/modmenu) to access mod config, or edit `config/moarfps.json5` file.  
 
-## License
+### Options:
+- `Get better FPS?`: Toggle mod,
+- `Desired FPS`: Number shown as fps,
+- `Make it appear less fake?`: Fluctuate fps by set amount,
+- `How much less fake?`: Fluctuation limits.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### Compatibility:  
+- Sodium & Sodium-Extra: Yes
+- Optifine: Partial (average fps isn't affected)
+- Likely other HUD mods too, unless they're using own method of counting FPS
