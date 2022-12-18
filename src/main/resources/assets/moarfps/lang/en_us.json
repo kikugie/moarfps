@@ -1,7 +1,7 @@
 {
-  "text.autoconfig.moarfps.option.fakeFps": "Desired FPS",
-  "text.autoconfig.moarfps.option.fluctuate": "Make it appear less fake?",
-  "text.autoconfig.moarfps.option.fluctuateAmount": "How much less fake?",
-  "text.autoconfig.moarfps.option.enable": "Get better FPS?",
-  "text.autoconfig.moarfps.title": "FPS Config"
+  "config.moarfps.option.fakeFps": "Desired FPS",
+  "config.moarfps.option.fluctuate": "Make it appear less fake?",
+  "config.moarfps.option.fluctuateAmount": "How much less fake?",
+  "config.moarfps.option.enable": "Get better FPS?",
+  "config.moarfps.title": "FPS Config"
 }

@@ -2,7 +2,6 @@
   "schemaVersion": 1,
   "id": "moarfps",
   "version": "${version}",
-
   "name": "Moar FPS",
   "description": "A simple optimisation mod for more fps.\nIn fact, as many fps as you want.",
   "authors": [
@@ -12,10 +11,8 @@
     "homepage": "https://github.com/Kikugie/moarfps",
     "sources": "https://github.com/Kikugie/moarfps/issues"
   },
-
   "license": "MIT",
   "icon": "assets/moarfps/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -24,18 +21,18 @@
     "modmenu": [
       "kikugie.moarfps.config.ModMenuIntegration"
     ]
-
   },
   "mixins": [
     "moarfps.mixins.json"
   ],
-
   "depends": {
     "fabricloader": "*",
-    "minecraft": ">=1.17",
-    "java": ">=17",
-    "cloth-config": "*"
+    "minecraft": ">=1.19.3",
+    "java": ">=17"
+
   },
   "suggests": {
+    "yet-another-config-lib": ">=2.0.0",
+    "touching-grass": "*"
   }
 }
